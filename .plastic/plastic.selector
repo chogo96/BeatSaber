@@ -1,0 +1,4 @@
+repository "OculusBeatSaber@Kor_Min@cloud"
+  path "/"
+    smartbranch "/main"           
+     
